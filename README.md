@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## Description
- 
+This is an E-commerce-Back-End application for an ecommerce site that uses command line interface/terminal and object relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with RESTFUL API. It uses express.js API which uses Sequelize to interact with a MySQL database in order to build a back end for a shop website. 
 
 ## Visuals
 
@@ -28,6 +28,9 @@
 
 ## Installation 
 
+1. npm i 
+2. npm run seed  
+3. npm start 
 
 ## Contributing
 
